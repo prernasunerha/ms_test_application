@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Filter to limit the API calls per hour using Googles Guava library 
  * 
- * @author praveendas
+ * @author anshumanc
  *
  */
 @Slf4j
