@@ -4,7 +4,7 @@
 package com.nab.ms.test.application.common;
 
 /**
- * @author praveendas
+ * @author anshumanc
  *
  */
 public class AppConstants {
