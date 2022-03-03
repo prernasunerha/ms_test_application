@@ -1,0 +1,13 @@
+{
+  "request": {
+    "urlPath": "*",
+    "method": "GET",
+    "response": {
+      "stauts": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "success.json"
+    }
+  }
+}
